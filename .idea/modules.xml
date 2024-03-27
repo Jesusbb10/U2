@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PatronDAO/PatronDAO.iml" filepath="$PROJECT_DIR$/PatronDAO/PatronDAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatronDi/PatronDi.iml" filepath="$PROJECT_DIR$/PatronDi/PatronDi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatronFactory/PatronFactory.iml" filepath="$PROJECT_DIR$/PatronFactory/PatronFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatronSingleton/PatronSingleton.iml" filepath="$PROJECT_DIR$/PatronSingleton/PatronSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Patrones.iml" filepath="$PROJECT_DIR$/.idea/Patrones.iml" />
+    </modules>
+  </component>
+</project>
